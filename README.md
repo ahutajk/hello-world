@@ -1,2 +1,1 @@
-# hello-world
-This repository is for practicing the GitHub Flow. 
+I am, Joram Ahuta Kivaya, born and raised in Nairobi, Kenya. I am an Apostle, ordained in accordance with 2 Timothy 2:2. I am dynamic and purpose driven with a diverse background in media technology and agribusiness. With years of experience in both Media and Sales and Marketing roles, I seek to learn and advance my skills in Software Engineering. The driving force being, technology and innovation. 
